@@ -1,5 +1,31 @@
+# npm
 node_modules
-db.sqlite3
-db.sqlite3-shm
-db.sqlite3-wal
 pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# IDE
+.idea/
+
+# built files
+build/
+dist/
+
+# lighthouse report
+localhost_*.report.html
+
+# config
+.env
+.open
+
+# MacOS
+.DS_Store
+
+# live server
+server.pid
+
+# user uploaded files
+uploads/
+
+# git files
+*.orig

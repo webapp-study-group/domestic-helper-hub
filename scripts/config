@@ -1,0 +1,4 @@
+user=node
+host=webapp.cc
+root_dir=/home/node/workspace/github.com/beenotung/webapp
+pm2_name="webapp"
