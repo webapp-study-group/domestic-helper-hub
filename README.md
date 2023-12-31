@@ -11,12 +11,26 @@ The demonstration focuses on scraping job profiles of domestic helpers from mult
 Playlist:
 https://www.youtube.com/playlist?list=PLH2rXoLSgZYd25js4V3rxV-3qEC658Bgu
 
+---
+
 Part 1 - demo web scraping with [playwright](https://github.com/microsoft/playwright) and database usage with [quick-erd](https://github.com/beenotung/quick-erd) and [better-sqlite3-proxy](https://github.com/beenotung/better-sqlite3-proxy):
 https://www.youtube.com/watch?v=9u_6PV_klY4
+
+---
 
 Part 2 - sum up the web scraping flow and develop a simple search engine for the domestic helpers:
 https://www.youtube.com/watch?v=s3H4ziyCHlA
 
+---
+
 Part 3 - build UI with [ts-liveview](https://github.com/beenotung/ts-liveview/blob/v5-minimal-template/README.md) and collect profile picture (and language [WIP])
+
+今次我們用 ts-liveview 的 JSX 語法防止了 Cross-site scripting (XSS) Attack
+
+並示範了如何用 knex migration 把兩個 project 的 database 合併。
+
+亦介紹了 node.js 的兩個模式：commonjs 和 ES Module。
+
+最後我們 setup 了 nested npm package，讓我們可以同時用得到 esm-only 和 commonjs-only 的 packages。
 
 See [help.txt](help.txt) to get started.
