@@ -23,7 +23,8 @@ https://www.youtube.com/watch?v=s3H4ziyCHlA
 
 ---
 
-Part 3 - build UI with [ts-liveview](https://github.com/beenotung/ts-liveview/blob/v5-minimal-template/README.md) and collect profile picture (and language [WIP])
+Part 3 - build UI with [ts-liveview](https://github.com/beenotung/ts-liveview/blob/v5-minimal-template/README.md) and collect profile picture (and language [WIP]):
+https://www.youtube.com/watch?v=GkoyiIBGiOA
 
 今次我們用 ts-liveview 的 JSX 語法防止了 Cross-site scripting (XSS) Attack
 
